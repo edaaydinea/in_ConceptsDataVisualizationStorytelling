@@ -11,13 +11,13 @@
 
 ### Course 1: Data Visualization: Storytelling
 
-* **Status:** In Progress
+* **Status:** Completed
 * **Notes:** [Course Notes](./Course1.ipynb)
 
 ### Course 2: Picking the Right Chart for Your Data
 
-* **Status:**
-* **Notes:**
+* **Status:** In Progress
+* **Notes:** [Course Notes](./Course2.ipynb)
 
 ### Course 3: Learning Data Visualization
 
@@ -53,7 +53,7 @@
 
 ## Certificates
 
-* **[Course 1: Data Visualization: Storytelling]**()
+* **[Course 1: Data Visualization: Storytelling]**(https://www.linkedin.com/learning/certificates/db6cb1c8b4157be795ab1672c2f3b6faacbf7df06bad14dcb4b335c9b6115ee1?trk=share_certificate)
 * **[Course 2: Picking the Right Chart for Your Data]**()
 * **[Course 3: Learning Data Visualization]**()
 * **[Course 4: Data Visualization: Best Practices]**()
